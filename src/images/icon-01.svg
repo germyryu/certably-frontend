@@ -1,0 +1,26 @@
+<!-- <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="icon1-b">
+            <stop stop-color="#A5B4FC" offset="0%" />
+            <stop stop-color="#818CF8" offset="100%" />
+        </linearGradient>
+        <linearGradient x1="50%" y1="24.537%" x2="50%" y2="100%" id="icon1-c">
+            <stop stop-color="#4338CA" offset="0%" />
+            <stop stop-color="#6366F1" stop-opacity="0" offset="100%" />
+        </linearGradient>
+        <path id="icon1-a" d="M16 0l16 32-16-5-16 5z" />
+    </defs>
+    <g transform="rotate(90 16 16)" fill="none" fill-rule="evenodd">
+        <mask id="icon1-d" fill="#fff">
+            <use xlink:href="#icon1-a" />
+        </mask>
+        <use fill="url(#icon1-b)" xlink:href="#icon1-a" />
+        <path fill="url(#icon1-c)" mask="url(#icon1-d)" d="M16-6h20v38H16z" />
+    </g>
+</svg> -->
+
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" rx="25" fill="#D9CFFF"/>
+<rect x="15" y="15" width="8.75" height="8.75" rx="1.5" fill="black"/>
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M26.25 16.5C26.25 15.6716 26.9216 15 27.75 15H33.5C34.3284 15 35 15.6716 35 16.5V22.25C35 23.0784 34.3284 23.75 33.5 23.75H27.75C26.9216 23.75 26.25 23.0784 26.25 22.25V16.5ZM15 27.75C15 26.9216 15.6716 26.25 16.5 26.25H22.25C23.0784 26.25 23.75 26.9216 23.75 27.75V33.5C23.75 34.3284 23.0784 35 22.25 35H16.5C15.6716 35 15 34.3284 15 33.5V27.75ZM27.75 26.25C26.9216 26.25 26.25 26.9216 26.25 27.75V33.5C26.25 34.3284 26.9216 35 27.75 35H33.5C34.3284 35 35 34.3284 35 33.5V27.75C35 26.9216 34.3284 26.25 33.5 26.25H27.75Z" fill="black"/>
+</svg>

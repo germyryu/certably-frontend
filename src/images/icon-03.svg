@@ -1,0 +1,26 @@
+<!-- <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="icon3-b">
+            <stop stop-color="#E2E8F0" offset="0%" />
+            <stop stop-color="#94A3B8" offset="100%" />
+        </linearGradient>
+        <linearGradient x1="50%" y1="24.537%" x2="50%" y2="99.142%" id="icon3-c">
+            <stop stop-color="#334155" offset="0%" />
+            <stop stop-color="#334155" stop-opacity="0" offset="100%" />
+        </linearGradient>
+        <path id="icon3-a" d="M16 0l16 32-16-5-16 5z" />
+    </defs>
+    <g transform="rotate(90 16 16)" fill="none" fill-rule="evenodd">
+        <mask id="icon3-d" fill="#fff">
+            <use xlink:href="#icon3-a" />
+        </mask>
+        <use fill="url(#icon3-b)" xlink:href="#icon3-a" />
+        <path fill="url(#icon3-c)" mask="url(#icon3-d)" d="M16-6h20v38H16z" />
+    </g>
+</svg> -->
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" rx="25" fill="#D1CFFF"/>
+<path d="M29.0667 36.7501L31.6 39.2835L36.6667 34.2168" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.2671 23.1171C25.1004 23.1004 24.9004 23.1004 24.7171 23.1171C20.7504 22.9837 17.6004 19.7337 17.6004 15.7337C17.5837 11.6504 20.9004 8.33374 24.9837 8.33374C29.0671 8.33374 32.3837 11.6504 32.3837 15.7337C32.3837 19.7337 29.2171 22.9837 25.2671 23.1171Z" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.9832 41.3499C21.9498 41.3499 18.9332 40.5832 16.6332 39.0499C12.5998 36.3499 12.5998 31.9499 16.6332 29.2666C21.2165 26.1999 28.7332 26.1999 33.3165 29.2666" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

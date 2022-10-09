@@ -1,0 +1,26 @@
+<!-- <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="icon2-b">
+            <stop stop-color="#BAE6FD" offset="0%" />
+            <stop stop-color="#38BDF8" offset="100%" />
+        </linearGradient>
+        <linearGradient x1="50%" y1="25.718%" x2="50%" y2="100%" id="icon2-c">
+            <stop stop-color="#0284C7" offset="0%" />
+            <stop stop-color="#0284C7" stop-opacity="0" offset="100%" />
+        </linearGradient>
+        <path id="icon2-a" d="M16 0l16 32-16-5-16 5z" />
+    </defs>
+    <g transform="rotate(90 16 16)" fill="none" fill-rule="evenodd">
+        <mask id="icon2-d" fill="#fff">
+            <use xlink:href="#icon2-a" />
+        </mask>
+        <use fill="url(#icon2-b)" xlink:href="#icon2-a" />
+        <path fill="url(#icon2-c)" mask="url(#icon2-d)" d="M16-6h20v38H16z" />
+    </g>
+</svg> -->
+
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" rx="25" fill="#D1CFFF"/>
+<path opacity="0.3" d="M25 15.7026L19.7103 22.0502C19.2684 22.5806 18.4801 22.6522 17.9498 22.2103C17.4195 21.7683 17.3478 20.9801 17.7898 20.4498L24.0398 12.9498C24.5395 12.3501 25.4606 12.3501 25.9603 12.9498L32.2103 20.4498C32.6523 20.9801 32.5806 21.7683 32.0503 22.2103C31.5199 22.6522 30.7317 22.5806 30.2898 22.0502L25 15.7026Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.8875 21.25C15.1704 21.25 14.6864 21.9826 14.9677 22.6422L19.2227 32.6211C19.6942 33.7269 20.7802 34.4444 21.9823 34.4444H28.0178C29.22 34.4444 30.3061 33.7268 30.7775 32.6209L35.0315 22.6422C35.3127 21.9825 34.8287 21.25 34.1116 21.25H15.8875ZM27.5 28.75C27.5 30.1307 26.3807 31.25 25 31.25C23.6193 31.25 22.5 30.1307 22.5 28.75C22.5 27.3693 23.6193 26.25 25 26.25C26.3807 26.25 27.5 27.3693 27.5 28.75Z" fill="black"/>
+</svg>

@@ -47,8 +47,6 @@ function Dashboard() {
               <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-2">
                 {/* Datepicker built with flatpickr */}
                 <Datepicker />     
-                {/* Filter button */}
-                <FilterButton />
               </div>
               <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-6">
                 {/* Add tenant button */}

@@ -132,9 +132,7 @@ function DashboardCard10() {
                         <div className="text-center font-medium">{customer.unit}</div>
                       </td>
                       <td className="p-2 whitespace-nowrap">
-                        <button className="btn bg-green-500 hover:bg-violet-400 text-center font-medium">
-                            <div className="hidden xs:block">{customer.status}</div>
-                        </button>
+                        <div className={`text-center font-medium ${customer.status === 'Inactive' ? 'bg-red-500/[0.8]' : 'bg-green-500/[0.8]'}`}>{customer.status}</div>
                       </td>
                     </tr>
                   )

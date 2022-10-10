@@ -22,7 +22,7 @@ function DashboardCard13() {
               </div>
               <div className="grow flex items-center border-b border-slate-100 text-sm py-2">
                 <div className="grow flex justify-between">
-                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Qonto</a> billing</div>
+                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Bluefin Condos</a> billing</div>
                   <div className="shrink-0 self-start ml-2">
                     <span className="font-medium text-slate-800">-$49.88</span>
                   </div>
@@ -38,7 +38,7 @@ function DashboardCard13() {
               </div>
               <div className="grow flex items-center border-b border-slate-100 text-sm py-2">
                 <div className="grow flex justify-between">
-                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Cruip.com</a> Market Ltd 70 Wilson St London</div>
+                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Bayside Apartments</a> Pittsburgh, PA</div>
                   <div className="shrink-0 self-start ml-2">
                     <span className="font-medium text-green-500">+249.88</span>
                   </div>
@@ -54,7 +54,7 @@ function DashboardCard13() {
               </div>
               <div className="grow flex items-center border-b border-slate-100 text-sm py-2">
                 <div className="grow flex justify-between">
-                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Notion Labs Inc</a></div>
+                  <div className="self-center"><a className="font-medium text-slate-800 hover:text-slate-900" href="#0">Meadlowlands Pittsburgh</a> Pittsburgh, PA </div>
                   <div className="shrink-0 self-start ml-2">
                     <span className="font-medium text-green-500">+99.99</span>
                   </div>
